@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<epcis:EPCISDocument xmlns:epcis="urn:epcglobal:epcis:xsd:1" schemaVersion="1.2" creationDate="2023-02-05T15:36:36.954Z">
+    <EPCISBody>
+        <EventList>
+            <ObjectEvent>
+                <eventTime>2023-02-05T00:00:00.000-05:00</eventTime>
+                <eventTimeZoneOffset>-05:00</eventTimeZoneOffset>
+                <epcList>
+                    <epc>urn:epc:id:sgtin:081005593.1101.01</epc>
+                </epcList>
+                <action>OBSERVE</action>
+                <readPoint>
+                    <id>urn:epc:id:sgln:081005593.123.0</id>
+                </readPoint>
+                <bizLocation>
+                    <id>urn:epc:id:sgln:081005593.123.0</id>
+                </bizLocation>
+            </ObjectEvent>
+        </EventList>
+    </EPCISBody>
+</epcis:EPCISDocument>
