@@ -1,6 +1,0 @@
-<destinationList>
-    {% for destination in destination_list %}
-        <destination
-                type="{{ destination.type }}">{{ destination.destination }}</destination>
-    {% endfor %}
-</destinationList>
