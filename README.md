@@ -1,5 +1,6 @@
 # 2023 Make-It-Wright Hackathon
-Hackathon-Team-18
+
+## Hackathon-Team-18
 Product Name: AECS - Automatic Event Creation System
 
  Challenge #2 - https://github.com/wrightedu/Make-IT-Wright-2023/wiki/Challenge-2
