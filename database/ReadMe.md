@@ -1,3 +1,5 @@
-Lettuce    Tomato     Container
-lotId      lotId      lotId
-lotId      lotId      lotId
+Lettuce  |  Tomato  |   Container
+--------------------------------
+lotId    |   lotId   |   lotId
+-------------------------------
+lotId   |   lotId   |   lotId
