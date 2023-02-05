@@ -1,7 +1,6 @@
 #! /usr/bin/python3
 import re
 from datetime import datetime
-import lxml.etree as ET
 
 input = input()
 gtin = re.search(r"F7[A-Za-z0-9]{15}", input)
